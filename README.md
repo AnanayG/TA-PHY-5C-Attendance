@@ -12,7 +12,7 @@ CMD to run:
 
 Dependencies: pandas
 
-Notes: 
+Notes:
     (1) your class roster is availabl"e in MyUCLA. MyUCLA>Faculty>Class Roster>Roster Download>Comma Seperated
         Place the downlaoded file in "Rosters" folder
         Place the attendence(UIDs only) under Lab<LAB_NUM>/G<SECTION>_attendance.txt
